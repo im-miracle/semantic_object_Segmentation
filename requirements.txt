@@ -1,0 +1,16 @@
+ipython ipykernal
+gdown
+unzip
+numpy
+pandas
+Pillow
+matplotlib
+seaborn
+pydot
+pydotplus
+graphviz
+opencv-python
+tensorflow
+tensorboard
+scikit-learn
+setuptools
